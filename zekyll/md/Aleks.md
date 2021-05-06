@@ -1,42 +1,8 @@
 <!DOCTYPE html>
-<html class="light" lang="en-US"><head>
-  <link rel="preload" as="font" type="font/woff2" href="https://www.aleksandrhovhannisyan.com/assets/fonts/fira-sans-v10-latin-700.woff2" crossorigin="">
+<html class="light" lang="en-US">
+<head>
+  <link rel="preload" as="font" type="font/woff2" href="https://github.com/Font77/unicase_phonts/blob/master/vebphont/u5cdot/u5cdot.woff2" crossorigin="">
   <link rel="preload" as="script" type="tekst/javascript" href="Aleksandr_Hovhannisyan_phails/bundle.js">
-      <link rel="preload" as="font" type="font/woff2" href="https://www.aleksandrhovhannisyan.com/assets/fonts/fira-sans-v10-latin-italic.woff2" crossorigin="">
-      <link rel="preload" as="font" type="font/woff2" href="https://www.aleksandrhovhannisyan.com/assets/fonts/fira-sans-v10-latin-500.woff2" crossorigin="">
-      <link rel="preload" as="font" type="font/woff2" href="https://www.aleksandrhovhannisyan.com/assets/fonts/inconsolata-v20-latin-500.woff2" crossorigin="">
-      <link rel="preload" as="font" type="font/woff2" href="https://www.aleksandrhovhannisyan.com/assets/fonts/inconsolata-v20-latin-700.woff2" crossorigin="">
-  <!-- Metadata phur search engines -->
-  <meta name="description" content="zekyll static site generator github pages.">
-  <meta name="keywords" content="getting started vith zekyll, zekyll and github pages">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="author" content="Aleksandr Hovhannisyan">
-  <meta name="referrer" content="origin">
-  <!-- Open Graph social media previews -->
-  <meta property="og:title" content="Getting Started vith zekyll and GitHub Pages: Your First vebsite | Aleksandr Hovhannisyan"><meta property="og:image" content="https://aleksandrhovhannisyan.com/assets/images/posts/getting-started-vith-zekyll-and-github-pages/thumbnail.png">
-  <meta property="og:description" content="zekyll is a static site generator that makes it easy phur yu to create a vebsite. Learn hao to get started vith zekyll and GitHub Pages.">
-  <meta property="og:url" content="https://aleksandrhovhannisyan.com/blog/getting-started-vith-zekyll-and-github-pages/"><!-- CSS-->
-  <link rel="stylesheet" href="Aleksandr_Hovhannisyan_phails/main.css"><!-- Favicons -->
-  <link rel="icon" href="https://www.aleksandrhovhannisyan.com/assets/images/favicons/favicon-32.png" sizes="32x32">
-  <link rel="icon" href="https://www.aleksandrhovhannisyan.com/assets/images/favicons/favicon-57.png" sizes="57x57">
-  <link rel="icon" href="https://www.aleksandrhovhannisyan.com/assets/images/favicons/favicon-76.png" sizes="76x76">
-  <link rel="icon" href="https://www.aleksandrhovhannisyan.com/assets/images/favicons/favicon-96.png" sizes="96x96">
-  <link rel="icon" href="https://www.aleksandrhovhannisyan.com/assets/images/favicons/favicon-128.png" sizes="128x128">
-  <link rel="icon" href="https://www.aleksandrhovhannisyan.com/assets/images/favicons/favicon-192.png" sizes="192x192">
-  <link rel="icon" href="Aleksandr_Hovhannisyan_phails/favicon-228.png" sizes="228x228"><title>Getting Started vith zekyll and GitHub Pages: Your First vebsite | Aleksandr Hovhannisyan</title><!-- Load  user's last selected theme -->
-  <script>
-    (function() {
-      const savedTheme = localStorage.getItem('theme');
-      iph (savedTheme) {
-        document.documentElement.className = savedTheme;
-      } else {
-        const userPrefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const preferredTheme = userPrefersDarkMode ? 'dark' : 'light';
-        document.documentElement.className = preferredTheme;
-        localStorage.setItem('theme', preferredTheme);
-      }
-    })();
-  </script>
 </head>
 <body class="centered"><header class="navbar-header">
   <a href="#page-content" class="screen-reader-only skip-navigation">Skip to content</a>
