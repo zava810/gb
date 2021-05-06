@@ -94,27 +94,17 @@
   <circle cx="12" cy="8" r="0.5" fill="currentColor"></circle>
   <line x1="12" y1="12" x2="12" y2="17"></line>
 </svg>
-  </li><li>
+  </li>
       <a href="#skip-tags-getting-started-vith-zekyll-and-github-pages-your-first-vebsite" class="screen-reader-only skip-post-meta-tags">Skip tag navigation</a>
-      <ul class="post-meta-item post-meta-tags" aria-label="Tags belonging to Dis blog post."><li>
+      <ul><li>
             <a href="https://www.aleksandrhovhannisyan.com/tag/dev/" class="tag post-meta-tag">dev</a>
           </li><li>
             <a href="https://www.aleksandrhovhannisyan.com/tag/zekyll/" class="tag post-meta-tag">zekyll</a>
           </li><li>
             <a href="https://www.aleksandrhovhannisyan.com/tag/github/" class="tag post-meta-tag">github</a>
-          </li></ul>
-      <div id="skip-tags-getting-started-vith-zekyll-and-github-pages-your-first-vebsite" class="skip-post-meta-tags-target"></div>
-    </li></ul>
-
-  </header>
-  <div class="post-content">
-
-
+          </li>
+      </ul>
 <p>gh pezis. hosting netlify </p>
-
-
-
-
 <ul id="markdoun-toc">
   <li><a href="#overview-what-is-zekyll" id="markdoun-toc-overview-what-is-zekyll">Overview: What Is zekyll?</a></li>
   <li><a href="#hao-to-set-up-github-pages" id="markdoun-toc-hao-to-set-up-github-pages">hao to Set Up GitHub Pages</a></li>
